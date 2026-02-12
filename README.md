@@ -276,22 +276,22 @@ Quantized_SNN/
 
 ---
 
-## 📈 Next Steps (Roadmap)
+## 📈 Next Steps 
 
-### Phase 2: Quantization Study 🥇
+### Quantization Study 🥇
 Enable 8-bit weight/activation quantization and measure:
 - Model size reduction (currently 100% → target 25%)
 - Accuracy degradation (acceptable if <1%)
 - Hardware efficiency gains
 
-### Phase 3: CIFAR-10 Experiments 🥈
+### CIFAR-10 Experiments 🥈
 Extend to harder dataset:
 - Target ANN: 85%+ accuracy
 - Target SNN: 80%+ accuracy
 - Study how temporal efficiency changes with image complexity
 
-### Phase 4: Research Report 📝
-Write 4–5 page research summary:
+### Report 📝
+Write 4–5 page  summary:
 - Introduction & motivation
 - Method & architecture
 - Results & comparisons
